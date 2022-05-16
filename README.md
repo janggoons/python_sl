@@ -1,10 +1,10 @@
 # 파이썬 특강 Special Lecture
 
-* 제목 Title : 모두를 위한 파이썬 Python for Everybody
-* 목표 Goals
-  * 파이썬을 통해 해결할 수 있는 다양한 문제를 살펴보고, Explore the various problems that Python can be solve,
-  * 자신의 전공 또는 관심 분야의 문제를 해결하기 위한 아이디어를 찾는다. and find ideas for solving problems in your major or area of interest.
-* 일시 Date : 2022년 05월 16일(월) 13:00~16:00
+* 제목 : 모두를 위한 파이썬 Python for Everybody
+* 목표
+  * 파이썬을 통해 해결할 수 있는 다양한 문제를 살펴보고, 
+  * 자신의 전공 또는 관심 분야의 문제를 해결하기 위한 아이디어를 찾는다. 
+* 일시 : 2022년 05월 16일(월) 13:00~16:00
 
 * 실습 코드 안내
   * Sample01 : 워드클라우드 예제
