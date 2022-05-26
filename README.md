@@ -9,7 +9,7 @@
   - 삼육대 파이썬 특강 : 2022년 05월 16일(월) 13:00~16:00
     - 강의노트 : [PDF](https://github.com/janggoons/python-sl/blob/main/20220516/python-sl-note_20220516.pdf) | [PPT](https://www.dropbox.com/s/e6unaqi6z30dkgm/python-sl-note_20220515.pptx?dl=0) 
   - 고교 연계 심화 프로젝트 - 파이썬 1일 특강 : 2022년 05월 29일(일) 13:00~15:00
-    - 강의노트 : [PDF](https://github.com/janggoons/python-sl/blob/main/python-sl-note_20220515.pdf) | [PPT](https://www.dropbox.com/s/e6unaqi6z30dkgm/python-sl-note_20220515.pptx?dl=0)
+    - 강의노트 : [PDF](https://github.com/janggoons/python-sl/blob/main/20220529/python-sl-note_20220529.pdf) | [PPT](https://www.dropbox.com/s/rbpc8fjsy0fj5so/python-sl-note_20220529.pptx?dl=0)
 
 * 파이썬으로 할 수 있는 것과 하고 싶은 것을 모으고 나누기 [링크](https://docs.google.com/forms/d/e/1FAIpQLScxwKCe0JtHGvnfxwnblOhpKiTRoZiqUeIYqoAVrPYftBXprg/viewform)
 
