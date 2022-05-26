@@ -7,7 +7,7 @@
   - 자신의 전공 또는 관심 분야의 문제를 해결하기 위한 아이디어를 찾는다. 
 * 특강 기록
   - 삼육대 파이썬 특강 : 2022년 05월 16일(월) 13:00~16:00
-    - 강의노트 : [PDF](https://github.com/janggoons/python-sl/blob/main/python-sl-note_20220515.pdf) | [PPT](https://www.dropbox.com/s/e6unaqi6z30dkgm/python-sl-note_20220515.pptx?dl=0) 
+    - 강의노트 : [PDF](https://github.com/janggoons/python-sl/blob/main/20220516/python-sl-note_20220516.pdf) | [PPT](https://www.dropbox.com/s/e6unaqi6z30dkgm/python-sl-note_20220515.pptx?dl=0) 
   - 고교 연계 심화 프로젝트 - 파이썬 1일 특강 : 2022년 05월 29일(일) 13:00~15:00
     - 강의노트 : [PDF](https://github.com/janggoons/python-sl/blob/main/python-sl-note_20220515.pdf) | [PPT](https://www.dropbox.com/s/e6unaqi6z30dkgm/python-sl-note_20220515.pptx?dl=0)
 
